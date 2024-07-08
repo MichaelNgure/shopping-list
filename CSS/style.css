@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Titillium Web", sans-serif;
+}
+  
+body {
+  min-height: 100%;
+  min-width: 100%;
+  background: linear-gradient(yellow, rgba(0, 0, 255, 0.76));
+}
+
+#list {
+  margin: 10px;
+  border: 1px solid #333;
+  background: rgba(255, 255, 255, 0.75);
+  padding: 15px 20px 18px 18px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+#mainDiv {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #333;
+  background: rgba(255, 255, 255, 0.3);
+  padding: 15px 20px 18px 18px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 5px #333;
+}
+
+button {
+  margin-bottom: 8px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
+  background-color: blue;
+  font-weight: bold;
+}
+
+button:hover{
+  background-color: rgba(0, 0, 255, 0.527);
+}
+
+li {
+  list-style: none;
+  margin-left: 0;
+}
+
+#itemInput {
+  padding: 5px;
+}
