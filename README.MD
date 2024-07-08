@@ -16,3 +16,6 @@ The user can also delete or edit a specific item.
 - To *edit* a particular item the user should click on the `edit button` beside that item and enter the item desired on the prompt.
 
 - To *delete* a particular item the user should click on the `delete button` besides the item he or she wants to remove from the list.
+
+## Accessing the Website
+To access the website visit this [link](https://michaelngure.github.io/shopping-list/)
